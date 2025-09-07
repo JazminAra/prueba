@@ -1,0 +1,26 @@
+{
+  "status": "Optimal",
+  "objective_USD": -12926379813.07,
+  "benefit_USD": 9694227.21,
+  "cost_USD": 12744860.29,
+  "penalty_USD": 12923329180.0,
+  "scenario": "S1",
+  "mult_pozos_chao": 1.0,
+  "mult_pozos_viru": 1.0,
+  "cap_santa_m3s": 88.0,
+  "penalty_usd_hm3": 100000000.0,
+  "deficits_hm3_by_month": {
+    "Ene": 8.684757,
+    "Feb": 7.214979,
+    "Mar": 8.227714,
+    "Abr": 8.851156,
+    "May": 9.810106,
+    "Jun": 10.087336,
+    "Jul": 9.736887,
+    "Ago": 12.550501,
+    "Sep": 14.463593,
+    "Oct": 14.808151,
+    "Nov": 12.388333,
+    "Dic": 12.40978
+  }
+}
